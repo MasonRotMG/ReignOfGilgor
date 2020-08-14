@@ -9,7 +9,7 @@ Below are tables of known safe versions of the RoG launcher and client.
 ### Client
 | Version   | Safe               |
 | --------- | ------------------ |
-| 1.0.0     | :white_check_mark: |
+| 1.0.x     | :white_check_mark: |
 | < 1.0.0   | :x:                |
 
 ### Launcher
