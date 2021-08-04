@@ -5,8 +5,8 @@
 ### Client
 | Version   | Supported          |
 | --------- | ------------------ |
-| 1.0.7     | :white_check_mark: |
-| < 1.0.7   | :x:                |
+| 1.0.9     | :white_check_mark: |
+| < 1.0.9   | :x:                |
 
 ### Launcher
 | Version   | Supported          |
